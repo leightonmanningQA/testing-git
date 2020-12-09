@@ -1,1 +1,5 @@
 adding text for code example 3.
+
+adding more code to example 3 
+
+adding even more code for the feature/1 branch
